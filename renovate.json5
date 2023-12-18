@@ -19,4 +19,5 @@
             ],
             "versioningTemplate": "{{#if versioning}}{{{versioning}}}{{else}}semver-coerced{{/if}}"
         }
+]
 }
